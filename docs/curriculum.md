@@ -11,9 +11,11 @@
 5. [트리(Tree)와 우선순위 큐(Priority Queue)](./01-data-structures/05-tree-and-priority-queue.md)
 6. [그래프(Graph)의 표현](./01-data-structures/06-graph-representation.md)
 
-## 2. JavaScript 정렬(Sorting) 알고리즘
+## [2. JavaScript 정렬(Sorting) 알고리즘](./02-sorting/index.md)
 
 선택 정렬, 버블 정렬, 삽입 정렬, 병합 정렬, JavaScript 정렬 라이브러리와 문제 풀이를 학습합니다.
+
+1. [선택 정렬](./02-sorting/01-selection-sort.md)
 
 ## 3. JavaScript 탐욕법(Greedy) 알고리즘
 

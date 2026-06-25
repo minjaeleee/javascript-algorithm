@@ -40,6 +40,14 @@ export default defineConfig({
           { text: '5. 트리와 우선순위 큐', link: '/01-data-structures/05-tree-and-priority-queue' },
           { text: '6. 그래프의 표현', link: '/01-data-structures/06-graph-representation' }
         ]
+      },
+      {
+        text: '2. 정렬 알고리즘',
+        collapsed: false,
+        items: [
+          { text: '챕터 소개', link: '/02-sorting/' },
+          { text: '1. 선택 정렬', link: '/02-sorting/01-selection-sort' }
+        ]
       }
     ],
     outline: {
