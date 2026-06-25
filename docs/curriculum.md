@@ -16,6 +16,7 @@
 선택 정렬, 버블 정렬, 삽입 정렬, 병합 정렬, JavaScript 정렬 라이브러리와 문제 풀이를 학습합니다.
 
 1. [선택 정렬](./02-sorting/01-selection-sort.md)
+2. [버블 정렬](./02-sorting/02-bubble-sort.md)
 
 ## 3. JavaScript 탐욕법(Greedy) 알고리즘
 

@@ -21,3 +21,4 @@ description: 선택 정렬부터 JavaScript 정렬 라이브러리까지 정렬 
 ## 먼저 볼 글
 
 - [선택 정렬](./01-selection-sort.md)
+- [버블 정렬](./02-bubble-sort.md)

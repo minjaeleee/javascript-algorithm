@@ -46,7 +46,8 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: '챕터 소개', link: '/02-sorting/' },
-          { text: '1. 선택 정렬', link: '/02-sorting/01-selection-sort' }
+          { text: '1. 선택 정렬', link: '/02-sorting/01-selection-sort' },
+          { text: '2. 버블 정렬', link: '/02-sorting/02-bubble-sort' }
         ]
       }
     ],
